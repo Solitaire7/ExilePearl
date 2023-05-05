@@ -301,7 +301,7 @@ pearls:
   allow_summoning: true
   prison_world: world_the_end
   main_world: world
-  cost_multiplier_days: 365
+  cost_multiplier_days: 21
 help_item:
   enabled: true
   item_name: "You've been pearled!"
